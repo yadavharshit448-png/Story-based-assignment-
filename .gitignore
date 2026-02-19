@@ -1,0 +1,6 @@
+
+*.class
+*.pdf
+*.py
+*.txt
+.DS_Store
